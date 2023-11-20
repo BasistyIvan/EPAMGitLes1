@@ -5,4 +5,6 @@ Chorus
 
 Third
 Fourth
+
+Second chorus
 Music fading
