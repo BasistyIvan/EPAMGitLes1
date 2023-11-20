@@ -2,4 +2,6 @@ First line
 Second line
 
 Chorus
+
+Third
 Music fading
